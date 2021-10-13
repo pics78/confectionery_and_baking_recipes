@@ -2,7 +2,7 @@
 
 ## 【材料】
 ### 食材
-- Ouef 卵:          180g(60g*3個)
+- Oeuf 卵:          180g(60g*3個)
 - Sucre 砂糖:       100g
 - Farine 小麦粉:    90g
 - Beurre バター:    20g
