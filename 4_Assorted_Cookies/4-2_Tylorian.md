@@ -1,12 +1,11 @@
 # Tylorian(絞りクッキー)
 
 ## 【材料】
-### 食材
-- Beurre バター:                150g
-- Sucre Farine:                 80g
-- Oeuf:                         1p
-- Farine:                       200g
-- Vanilla バニラオイル:          少々
+- Beurre： 150g
+- Sucre Farine： 80g
+- Oeuf： 1p
+- Farine： 200g
+- Vanilla： petit
 
 ## 【作り方】
 1. ボウルに常温のバターと砂糖を入れて合わせる(シュガーバッター法)

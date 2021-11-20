@@ -2,28 +2,28 @@
 
 ## 【材料】
 ### Sand Masse(サンドマッセ)
-- Beurre            80g
-- Shortening        80g
-- Sucre             160g
-- Oeuf              160g
-- Farine            80g
-- Fecule de mais    80g
-- Vanilla           petit
+- Beurre： 80g
+- Shortening： 80g
+- Sucre： 160g
+- Oeuf： 160g
+- Farine： 80g
+- Fecule de mais： 80g
+- Vanilla： petit
 ### Creme au Beurre(バタークリーム)
-- Jaune d'oeuf      2p
-- Sucre             70g
-- Lait              70g
-- Beurre            140g
-- Vanille           petit
+- Jaune d'oeuf： 2p
+- Sucre： 70g
+- Lait： 70g
+- Beurre： 140g
+- Vanille： petit
 ### Praline Pudle(プラリネ)
-- Sucre Semoul      75g
-- Eau               30g(基本は砂糖の1/3が目安)
-- Tranche d'amande  75g
-- Noyer             75g
+- Sucre Semoul： 75g
+- Eau： 30g(基本は砂糖の1/3が目安)
+- Tranche d'amande： 75g
+- Noyer： 75g
 ### 仕上げ
-- Sucre Farine      petit
+- Sucre Farine： petit
   
- ### 型
+### 型
 - 18cmエンゼル型2台
 
 ## 【作り方】

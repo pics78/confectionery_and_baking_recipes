@@ -1,12 +1,11 @@
 # Beurre de Neige(ブールドネージュ)
 
 ## 【材料】
-### 食材
-- Beurre バター:                100g
-- Sucre Farine:                 50g
-- Noix:                         40g
-- Farine:                       160g
-- Pudle d'amand:                40g
+- Beurre： 100g
+- Sucre Farine： 50g
+- Noix： 40g
+- Farine： 160g
+- Pudle d'amand： 40g
 
 ## 【作り方】
 1. ヘーゼルナッツを細かく刻む

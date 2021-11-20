@@ -2,19 +2,19 @@
 
 ## 【材料】
 ### クレープ
-- Ouef          3p
-- Sucre         30g
-- Farine        120g
-- Lait          300cc
-- Creme45%      90cc
-- Sel           petit
-- Vanilla       petit
-- Grandmarnier  petit
+- Ouef： 3p
+- Sucre： 30g
+- Farine： 120g
+- Lait： 300cc
+- Creme45%： 90cc
+- Sel： petit
+- Vanilla： petit
+- Grandmarnier： petit
 ### ヨーグルトクリーム(トッピング)
-- Creme45%          300cc
-- Sucre Semoul      25g
-- Yogourt Nature    75g
-- Vanille           petit
+- Creme45%： 300cc
+- Sucre Semoul： 25g
+- Yogourt Nature： 75g
+- Vanille： petit
 
 ## 【作り方】
 ### クレープ

@@ -1,12 +1,11 @@
 # Genoise(スポンジケーキ)
 
 ## 【材料】
-### 食材
-- Oeuf 卵:          180g(60g*3個)
-- Sucre 砂糖:       100g
-- Farine 小麦粉:    90g
-- Beurre バター:    20g
-- バニラオイル :    少々
+- Oeuf： 180g(60g*3個)
+- Sucre： 100g
+- Farine： 90g
+- Beurre： 20g
+- Vanilla： petit
 
 ### 器具
 - ホイッパー

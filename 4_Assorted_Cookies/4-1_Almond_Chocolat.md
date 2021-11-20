@@ -1,14 +1,13 @@
 # Almond Chocolat(アイスボックスクッキー)
 
 ## 【材料】
-### 食材
-- Beurre バター:        120g
-- Sucre Farine:         80g
-- Jaune d'oeuf:         2p
-- Pudle d'amand:        40g
-- Farine:               140g
-- Cocoa:                25g
-- Tranche d'amande:     45g
+- Beurre： 120g
+- Sucre Farine： 80g
+- Jaune d'oeuf： 2p
+- Pudle d'amand： 40g
+- Farine： 140g
+- Cocoa： 25g
+- Tranche d'amande： 45g
 
 ## 【作り方】
 1. ボウルに常温のバターと砂糖を入れて合わせる(シュガーバッター法)

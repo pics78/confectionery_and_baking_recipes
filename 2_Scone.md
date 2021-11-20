@@ -1,24 +1,23 @@
 # Scone(スコーン)
 
 ## 【材料】
-### 食材
-#### (A: プレーン)
-- Farine 薄力粉:            300g
-- Sucre 砂糖:               60g
-- Sel 塩:                   1.5g
-- BP ベーキングパウダー:     9g
-- Oeuf 卵:                  15cc
-- Creme45% 生クリーム45%:   135cc
-- Beurre バター:            60g
-#### (B: チョコレート)
-- Farine 薄力粉:            300g
-- Sucre 砂糖:               35g
-- Sel 塩:                   3.5g
-- BP ベーキングパウダー:     9g
-- Oeuf 卵:                  75cc
-- Creme45% 生クリーム45%:   70cc
-- Beurre バター:            60g
-- Chocolat 溶けないチョコ:  90g
+### プレーン
+- Farine： 300g
+- Sucre： 60g
+- Sel： 1.5g
+- BP：  9g
+- Oeuf： 15cc
+- Creme45%： 135cc
+- Beurre： 60g
+### チョコレート
+- Farine： 300g
+- Sucre： 35g
+- Sel： 3.5g
+- BP： 9g
+- Oeuf： 75cc
+- Creme45%： 70cc
+- Beurre： 60g
+- Chocolat(溶けないやつ)： 90g
 
 ## 【作り方】
 1. 薄力粉、砂糖、塩、BPをそれぞれ計量して合わせておく

@@ -1,23 +1,24 @@
 # Zuccotto(ズコット) - Creme(クリーム)
 
 ## 【材料】
-### 食材
 - [スポンジケーキ](1_Genoise.md)
-- Creme45% 生クリーム45%        250cc
-- Sucre Semoul グラニュー糖     45g
-- Chocolat(クーベルチュール)    30g
-- Almond アーモンド             25g
-- Noirzetto ヘーゼルナッツ      25g
-- Orange Peel オレンジピール    20g
-- Cerises de vidange さくらんぼの砂糖漬け 20g
-- Eau de vie ブランデー         20cc
-- Kirush キルシュ               15cc
-(Sirup d'eau de vie: ブランデーシロップ)
-- Sucre Semoul グラニュー糖     50g
-- Eau 水                        50g
-- Eau de vie ブランデー         少々
+- Creme45%： 250cc
+- Sucre Semoul： 45g
+- Chocolat： 30g
+- Almond： 25g
+- Noirzetto： 25g
+- Orange Peel： 20g
+- Cerises de vidange： 20g
+- Eau de vie： 20cc
+- Kirush： 15cc
+
+(Sirup d'eau de vie)
+- Sucre Semoul： 50g
+- Eau： 50g
+- Eau de vie： petit
+
 (トッピング)
-- Cocoa en pudre                petit
+- Cocoa en pudre： petit
 
 ### 型
 - 18cmボウル
@@ -28,7 +29,7 @@
 3. スポンジケーキを切り、厚さ1cmのシート状のスポンジを2枚作る
 4. 残ったスポンジを楔型に切る(正確に三角形ではなく、それより少し薄めに)
 5. 3を型のボウルに並べ、シロップを塗る
-6. ナッツ類、チョコ、さくらんぼの砂糖漬けをそれぞれ刻む
+6. ナッツ類、クーベルチュール、さくらんぼの砂糖漬けをそれぞれ刻む
 7. 6とオレンジピールを合わせる
 8. 生クリームに砂糖を加え、氷水で冷やしながら泡立てる
 9. 7と8を合わせる(一度に混ぜず、固さを調整しながら)

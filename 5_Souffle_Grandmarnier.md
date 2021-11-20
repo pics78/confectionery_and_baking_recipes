@@ -2,21 +2,21 @@
 
 ## 【材料】(直径8×5cmスフレココット4個分)
 ### スフレ
-- Beurre        30g
-- Farine        30g
-- Lait          150cc
-- Jaune d'ouef  3個分
-- Blanc d'ouef  3個分
-- Sucre Semoul  30g
-- Grandmarnier  10cc
+- Beurre： 30g
+- Farine： 30g
+- Lait： 150cc
+- Jaune d'ouef： 3個分
+- Blanc d'ouef： 3個分
+- Sucre Semoul： 30g
+- Grandmarnier： 10cc
 ### Sauce au Grandmarnier(カスタードソース)
-- Lait          250cc
-- Sucre         50g
-- Jaune d'ouef  3個分
-- Fecule        6g
-- Creme45%      50cc
-- Grandmarnier  15cc
-- Vanille       少々
+- Lait： 250cc
+- Sucre： 50g
+- Jaune d'ouef： 3個分
+- Fecule： 6g
+- Creme45%： 50cc
+- Grandmarnier： 15cc
+- Vanille： petit
 
 ## 【作り方】
 ### スフレ

@@ -1,13 +1,13 @@
 # Beignets Souffles(ベーニエ スフレ) - 揚げシュー
 
 ## 【材料】
-- Lait              100cc
-- Eau               100cc
-- Beurre            40g
-- Sel               petit
-- Farine(S)         60g
-- Farine(H)         60g
-- Ouef              3p
+- Lait： 100cc
+- Eau： 100cc
+- Beurre： 40g
+- Sel： petit
+- Farine(S)： 60g
+- Farine(H)： 60g
+- Ouef： 3p
 
 (トッピング)
 - Sucre de Cannelle

@@ -1,12 +1,12 @@
 # French Toast(フレンチトースト)
 
 ## 【材料】
-- Baguette  1p(200g程度)
-- Oeuf      4p
-- Lait      240cc
-- Sucre     50g
-- Vanilla   petit
-- Beurre    (焼くとき使用)
+- Baguette： 1p(200g程度)
+- Oeuf： 4p
+- Lait： 240cc
+- Sucre： 50g
+- Vanilla： petit
+- Beurre： (焼くとき使用)
 
 ## 【作り方】
 1. フランスパンを1cmくらいの厚さに切る

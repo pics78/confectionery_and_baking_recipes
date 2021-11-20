@@ -2,25 +2,26 @@
 
 ## 【材料】
 ### Biscuit
-- Jaune d'oeuf      6p
-- Sucre Semoul      80g
-- Blanc d'oeuf      6p
-- Sucre Semoul      60g
-- Farine            75g
+- Jaune d'oeuf： 6p
+- Sucre Semoul： 80g
+- Blanc d'oeuf： 6p
+- Sucre Semoul： 60g
+- Farine： 75g
 ### Gelee d'orange
-- Gelatin           10g(水分量に対して3%が基本)
-- Jas d'orange      160cc
-- Citron Emince     1p
-- Sucre Semoul      50g
-- Cointreau         petit
+- Gelatin： 10g(水分量に対して3%が基本)
+- Jas d'orange： 160cc
+- Citron Emince： 1p
+- Sucre Semoul： 50g
+- Cointreau： petit
+
 (中に入れる具材)
-- Fraise            5grain
-- Banana            1p
-- Orange Chair      10p
+- Fraise： 5grain
+- Banana： 1p
+- Orange Chair： 10p
 ### Creme Chantilly
-- Creme45%          300cc
-- Sucre Semoul      20g
-- Vanilla           petit
+- Creme45%： 300cc
+- Sucre Semoul： 20g
+- Vanilla： petit
 
 ## 【作り方】
 ### Biscuit

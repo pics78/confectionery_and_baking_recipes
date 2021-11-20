@@ -2,23 +2,23 @@
 
 ## 【材料】
 ### Pate Chou(20g × 24個分)
-- Beurre            80g
-- Eau               170g
-- Sel               petit
-- Farine            100g
-- Oeuf              4p(粉の火の入れ加減で適量が若干変わる)
+- Beurre： 80g
+- Eau： 170g
+- Sel： petit
+- Farine： 100g
+- Oeuf： 4p(粉の火の入れ加減で適量が若干変わる)
 ### Creme patissiere
-- Jaune d'oeuf      8p
-- Sucre Semoul      140g
-- Lait              650cc
-- Vanilla           petit
-- Farine            60g
-- Creme45%          250g
+- Jaune d'oeuf： 8p
+- Sucre Semoul： 140g
+- Lait： 650cc
+- Vanilla： petit
+- Farine： 60g
+- Creme45%： 250g
 ### Pate Sablee(約50枚分)
-- Beurre            100g
-- Sucre             80g
-- Farine            100g
-- Almond Slice      50g
+- Beurre： 100g
+- Sucre： 80g
+- Farine： 100g
+- Almond Slice： 50g
 
 ## 【作り方】
 ### Pate Chou
